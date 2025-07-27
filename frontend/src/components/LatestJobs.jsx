@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import LatestJobCard from './LatestJobCard'
+import LatestJobCard from './LatestJobCards'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom';
 
